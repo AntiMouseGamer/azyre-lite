@@ -1,0 +1,15 @@
+costura.beautyui.dll.compressed|1.0.0.0|BeautyUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|BeautyUI.dll|F567866F361B0B67AD1FAE4D50A475A197D4A9BC|121344
+costura.bleak.dll.compressed|2.5.0.0|Bleak, Version=2.5.0.0, Culture=neutral, PublicKeyToken=null|Bleak.dll|4D911AF490E9B2D3B942CE5086F2F684F3C7C6B8|58368
+costura.costura.dll.compressed|6.0.0.0|Costura, Version=6.0.0.0, Culture=neutral, PublicKeyToken=9919ef960d84173d|Costura.dll|028E9832F421F11F9497C610F1734E0F3D868037|5120
+costura.costura.pdb.compressed|||Costura.pdb|806F4C19B2D7FD9E3B836269EC07647019A29E95|7960
+costura.microsoft.bcl.asyncinterfaces.dll.compressed|10.0.0.1|Microsoft.Bcl.AsyncInterfaces, Version=10.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|Microsoft.Bcl.AsyncInterfaces.dll|64401B328B8363A45492A3DFBA4F96DECFF02802|28432
+costura.newtonsoft.json.dll.compressed|11.0.0.0|Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|3A833EB7C6BE203F16799D7B7CCD8B8C9D439261|662528
+costura.system.buffers.dll.compressed|4.0.5.0|System.Buffers, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Buffers.dll|D87680E1A96549CF45506D17566EC08C27A770D8|23816
+costura.system.io.pipelines.dll.compressed|10.0.0.1|System.IO.Pipelines, Version=10.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.IO.Pipelines.dll|954B5683C089179B1FAB68D0C8E4229B73A13A34|85816
+costura.system.memory.dll.compressed|4.0.5.0|System.Memory, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Memory.dll|96C87B7148805A0ADCD4B9E23162DEB06D7A4702|145200
+costura.system.numerics.vectors.dll.compressed|4.1.6.0|System.Numerics.Vectors, Version=4.1.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Numerics.Vectors.dll|C5583C3257CF193FF4736671445F8DA64366A6A1|110344
+costura.system.runtime.compilerservices.unsafe.dll.compressed|6.0.3.0|System.Runtime.CompilerServices.Unsafe, Version=6.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Runtime.CompilerServices.Unsafe.dll|43290CD4AAF80DF5D1CF9F242486EF8E646FDDDA|19256
+costura.system.security.cryptography.pkcs.dll.compressed|4.0.3.2|System.Security.Cryptography.Pkcs, Version=4.0.3.2, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Cryptography.Pkcs.dll|5F309B456289A9E7BBD7A04A6067BC0C4B643AD3|24112
+costura.system.text.encodings.web.dll.compressed|10.0.0.1|System.Text.Encodings.Web, Version=10.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Text.Encodings.Web.dll|27BBB792BDA62F5B6B5A64A8A02213A13A1127CF|87816
+costura.system.text.json.dll.compressed|10.0.0.1|System.Text.Json, Version=10.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Text.Json.dll|92178B78EE05EF6DD09F18DDA79E87B6FE4AE6B3|777480
+costura.system.threading.tasks.extensions.dll.compressed|4.2.4.0|System.Threading.Tasks.Extensions, Version=4.2.4.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Threading.Tasks.Extensions.dll|3439DA9B7918FA0C17836ACBE1FA4E05C40119EC|27960

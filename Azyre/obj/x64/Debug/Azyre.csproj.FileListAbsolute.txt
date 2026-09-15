@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\obj\x64\Debug\Azyre.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\obj\x64\Debug\Azyre.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\bin\Debug\Azyre.exe
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\bin\Debug\Azyre.pdb
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\bin\Debug\BeautyUI.dll
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\bin\Debug\Bleak.dll
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\bin\Debug\System.Text.Json.dll
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\obj\x64\Debug\Azyre.csproj.Up2Date
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\obj\x64\Debug\Azyre.exe
+C:\Users\user\Downloads\Azyre-Lite-main\Azyre-Lite-main\Azyre\obj\x64\Debug\Azyre.pdb
